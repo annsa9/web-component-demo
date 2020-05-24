@@ -51,6 +51,6 @@ class Square extends HTMLElement {
 
 }
 
-customElements.define('custom-square', Square);
+customElements.define('CustomSquare', Square);
 
 export default Square;

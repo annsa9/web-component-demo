@@ -1,11 +1,11 @@
 # Web component example
 A web component like react style with lifecycle events.
-This example includes two components
-1. <my-app> component is implemeneted with Shadow DOM
-2. <custom-square> component is implemeneted without Shadow DOM
+This includes two components:
+1. MyApp component is implemeneted with Shadow DOM
+2. CustomSquare component is implemeneted without Shadow DOM
 
-## Online game link
-[Live here](https://phaser.io/examples/v2/games/simon)
+## Online link
+[Live here](https://web-component-demo.netlify.app/)
 
 ## Local Installation
 
