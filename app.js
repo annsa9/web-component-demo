@@ -42,7 +42,7 @@ class App extends HTMLElement {
 
     add.onclick = function () {
       // Create a custom square element
-      square = document.createElement('CustomSquare');
+      square = document.createElement('custom-square');
       square.setAttribute('l', '100');
       square.setAttribute('c', 'red');
       document.body.appendChild(square);
@@ -69,4 +69,4 @@ class App extends HTMLElement {
   }
 }
 
-customElements.define('MyApp', App);
+customElements.define('my-app', App);
